@@ -1,7 +1,7 @@
 {
-  "id": "GUN",
-  "title": "GUN, A Weird West RPG",
-  "description": "GUN game system by Guy Axelburg, based on the BITD system by GMonlineua",
+  "id": "bitd",
+  "title": "Blades in the Dark",
+  "description": "Blades in the Dark game system by GMonline",
   "version": "0.8",
   "compatibility": {
     "minimum": "12",
@@ -9,11 +9,6 @@
     "maximum": "13"
   },
   "authors": [
-    {
-     "name": "Guy-Axelburg",
-      "url": "https://github.com/Guy-Axelburg",
-      "email": "guyaxelburg@ardentcoresoftware.com"
-    }
     {
       "name": "GMonline-ua",
       "url": "https://bsky.app/profile/gmonline-ua.bsky.social",
